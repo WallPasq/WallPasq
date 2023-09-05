@@ -1,5 +1,5 @@
-<a href="https://github.com/WallPasq?tab=repositories" rel="noreferrer noopener" target="_blank">
-  <img src="https://github.com/WallPasq/WallPasq/blob/main/assets/icons.png" alt="Languages ​​and frameworks icons: R, Python, Pandas, Scikit-learn, Spark, JavaScript, TypeScript, React, NestJS and GraphQL." rel="noreferrer noopener" target="_blank">
+<a href="https://www.linkedin.com/in/wallacypasqualini/" rel="noreferrer noopener" target="_blank">
+  <img src="https://github.com/WallPasq/WallPasq/blob/main/assets/banner.png" alt="Languages ​​and frameworks icons: R, Python, Pandas, Scikit-learn, Spark, JavaScript, TypeScript, React, NestJS and GraphQL." rel="noreferrer noopener" target="_blank">
 </a>
 
 <div align="center">
