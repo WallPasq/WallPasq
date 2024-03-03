@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/wallacypasqualini/" rel="noreferrer noopener" target="_blank">
-  <img src="https://github.com/WallPasq/WallPasq/blob/main/assets/banner.png" alt="Languages and frameworks icons: R, Python, Scikit-learn, Spark, Airflow, Streamlit, Big Query, Power BI, Bizagi and Camunda." rel="noreferrer noopener" target="_blank">
+  <img src="https://github.com/WallPasq/WallPasq/blob/main/assets/banner1.png" alt="Languages and frameworks icons: R, Python, Scikit-learn, Spark, Airflow, Streamlit, Big Query, Power BI, Bizagi and Camunda." rel="noreferrer noopener" target="_blank">
 </a>
 
 <div align="center">
