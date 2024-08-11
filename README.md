@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/wallacypasqualini/" rel="noreferrer noopener" target="_blank">
-  <img src="https://github.com/WallPasq/WallPasq/blob/main/assets/banner.png" alt="Languages and frameworks icons: R, Python, Scikit-learn, Spark, Databricks, Google Big Query, Streamlit, Airflow, UiPath e Automation Anywhere" rel="noreferrer noopener" target="_blank">
+  <img src="https://github.com/WallPasq/WallPasq/blob/main/assets/banner.png" alt="Languages ​​and frameworks icons: Python, scikit-learn, Spark, Databricks, BigQuery, Streamlit, Airflow, PowerBI." rel="noreferrer noopener" target="_blank">
 </a>
 
 <div align="center">
@@ -9,11 +9,11 @@
 
 <h1>Welcome to my GitHub</h1>
 <p>
-   Here I present projects focused on Data Science and Hyperautomation. These fields represent not only my areas of expertise but also my passion and professional mission. <br /> <br />
-   My main objective is to develop intelligent solutions that optimize the operational efficiency of various departments within an organization, particularly emphasizing data and process intelligence. <br /> <br />
-   I aspire to empower teams by freeing them from repetitive tasks like data collection, spreadsheet management, and juggling multiple tools simultaneously. Instead, I aim to enable them to concentrate on a singular mission: delivering value to clients. <br /> <br />
-   I am deeply committed to being both data-driven and intelligent automation-focused, firmly aligned with Data Science and Hyperautomation principles. My central focus lies in refining the organization's products to not only be attractive but also highly functional for clients. <br /> <br />
-   However, I understand that achieving this objective necessitates fostering an environment that promotes operational efficiency, driving employee growth and development. I am committed to assisting teams in becoming exponentially more efficient and believe that my multifaceted approach is pivotal in achieving this aim. <br /> <br />
+   Here, I present projects focused on Data Science. <br /> <br />
+   My primary objective is to develop intelligent solutions that optimize the operational efficiency of various departments within an organization, with a particular emphasis on data intelligence. <br /> <br />
+   I strive to empower teams by freeing them from repetitive tasks such as data collection, spreadsheet management, and the challenge of juggling multiple tools simultaneously. My goal is to enable them to focus on a single mission: delivering value to clients. <br /> <br />
+   I am deeply committed to a data-driven approach, with my central focus on refining the organization's products to ensure they are not only attractive but also highly functional for clients. <br /> <br />
+   However, I recognize that achieving this goal requires fostering an environment that promotes operational efficiency and drives employee growth and development. I am dedicated to helping teams become exponentially more efficient, and I believe that my multifaceted approach is crucial to achieving this aim. <br /> <br />
    Please feel free to connect with me on <a href="https://www.linkedin.com/in/wallacypasqualini/" rel="noreferrer noopener" target="_blank">LinkedIn</a> and explore my expertise through the projects showcased in my <a href="https://github.com/WallPasq?tab=repositories" rel="noreferrer noopener" target="_blank">repositories</a>.
 </p>
 
