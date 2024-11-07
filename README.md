@@ -7,14 +7,15 @@
   <p>But you can call me Wally 😉</p>
 </div>
 
-<h1>Welcome to my GitHub</h1>
+<h1>Hi there! 👋 Welcome to my GitHub!</h1>
 <p>
-   Here, I present projects focused on Data Science. <br /> <br />
-   My primary objective is to develop intelligent solutions that optimize the operational efficiency of various departments within an organization, with a particular emphasis on data intelligence. <br /> <br />
-   I strive to empower teams by freeing them from repetitive tasks such as data collection, spreadsheet management, and the challenge of juggling multiple tools simultaneously. My goal is to enable them to focus on a single mission: delivering value to clients. <br /> <br />
-   I am deeply committed to a data-driven approach, with my central focus on refining the organization's products to ensure they are not only attractive but also highly functional for clients. <br /> <br />
-   However, I recognize that achieving this goal requires fostering an environment that promotes operational efficiency and drives employee growth and development. I am dedicated to helping teams become exponentially more efficient, and I believe that my multifaceted approach is crucial to achieving this aim. <br /> <br />
-   Please feel free to connect with me on <a href="https://www.linkedin.com/in/wallacypasqualini/" rel="noreferrer noopener" target="_blank">LinkedIn</a> and explore my expertise through the projects showcased in my <a href="https://github.com/WallPasq?tab=repositories" rel="noreferrer noopener" target="_blank">repositories</a>.
+   Here, you’ll find projects focused on Data Science and Business Intelligence. <br /><br />
+   My primary objective is to develop data-driven solutions that enhance operational efficiency across various departments, with a particular emphasis on Data Intelligence. <br /><br />
+   I strive to empower teams by automating repetitive tasks — like data collection and spreadsheet management — so they can focus on what truly matters: delivering value to clients. <br /><br />
+   I’m committed to a data-first approach, where my main goal is refining products to be not only functional but also highly valuable for users. <br /><br />
+   I believe that to achieve this, it’s essential to foster an environment that boosts operational efficiency and encourages team growth and development. I'm dedicated to helping teams become exponentially more efficient, with tools and insights that streamline their workflows. <br /><br />
+   Feel free to connect with me on <a href="https://www.linkedin.com/in/wallacypasqualini/" rel="noreferrer noopener" target="_blank">LinkedIn</a> and check out my projects in my <a href="https://github.com/WallPasq?tab=repositories" rel="noreferrer noopener" target="_blank">repositories</a>. <br /><br />
+   You can also explore my academic contributions on <a href="https://orcid.org/0000-0003-4013-0822" rel="noreferrer noopener" target="_blank">ORCID</a>.
 </p>
 
 <h1>Main Repository</h1>
@@ -23,9 +24,12 @@
 </a>
 
 <h1>Thank you for your visit!</h1>
-<p>☕ How about we grab a coffee next time?</p>
+<p>☕ How about we grab a coffee next time (even if it’s virtual)?</p>
 <a href="https://www.linkedin.com/in/wallacypasqualini/" rel="noreferrer noopener" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: wallacypasqualini" rel="noreferrer noopener" target="_blank">
+</a>
+<a href="https://orcid.org/0000-0003-4013-0822" rel="noreferrer noopener" target="_blank">
+  <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile">
 </a> 
 <a href = "mailto:wallacypasqualini@gmail.com" rel="noreferrer noopener" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: wallacypasqualini@gmail.com" rel="noreferrer noopener" target="_blank">
